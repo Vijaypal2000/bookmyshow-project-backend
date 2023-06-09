@@ -1,4 +1,4 @@
-# Movie Booking Backend
+# Bookmyshow Backend
 
 This is a backend project developed using Node.js, Mongoose, and MongoDB to facilitate the booking of movie tickets. Users can select movie time slots and seats for booking.
 
